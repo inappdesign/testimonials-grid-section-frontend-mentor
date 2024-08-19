@@ -28,6 +28,7 @@ html {
 body {
 	display: flex;
 	align-items: center;
+	justify-content: center;
 	position: relative;
 	padding: 5rem;
 	font-family: var(--barlow-semi-condensed);
@@ -40,7 +41,6 @@ body {
 
 main {
 	display: grid;
-	margin: 7.1rem auto;
 	min-width: 32.7rem;
 	max-height: 182.4rem;
 	grid-template-columns: repeat(1, 1fr);
