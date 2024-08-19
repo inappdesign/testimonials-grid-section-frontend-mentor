@@ -28,7 +28,7 @@ html {
 body {
 	position: relative;
 	padding: 5rem;
-	font-family: var(--barlow-condensed);
+	font-family: var(--barlow-semi-condensed);
 	font-size: 1.3rem;
 	color: var(--white);
 	min-height: 100vh;
@@ -128,7 +128,6 @@ main {
 
 .description :first-child {
 	margin-bottom: 1.6rem;
-	font-family: var(--barlow-semi-condensed);
 	font-weight: var(--font-weight-6);
 	font-size: 2rem;
 }
@@ -136,7 +135,6 @@ main {
 .description :last-child {
 	color: rgba(255, 255, 255, 0.7);
 	line-height: 1.8rem;
-	letter-spacing: 0.05rem;
 }
 
 .attribution {
@@ -168,7 +166,6 @@ main {
 		grid-row: 1/1;
 	}
 	.article-2 {
-		background-color: var(--very-dark-grayish-blue);
 		grid-column: 3/3;
 		grid-row: 1/1;
 	}
