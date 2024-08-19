@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-wCp-ed_vF1)
+- Live Site URL: [Live version of my solution](https://testimonials-grid-section-frontend-mentor-alpha.vercel.app/)
 
 ## My process
 
