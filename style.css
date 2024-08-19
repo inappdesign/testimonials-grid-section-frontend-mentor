@@ -111,6 +111,7 @@ h2 {
 	grid-row: 4/4;
 }
 .article-5 {
+	background-color: var(--white);
 	color: var(--very-dark-grayish-blue);
 	grid-row: 5/5;
 }
