@@ -41,7 +41,6 @@ body {
 main {
 	display: grid;
 	min-width: 32.7rem;
-	max-height: 182.4rem;
 	grid-template-columns: repeat(1, 1fr);
 	grid-template-rows: repeat(5, 1fr);
 	gap: 2.4rem;
@@ -159,7 +158,6 @@ h2 {
 @media (min-width: 60rem) {
 	main {
 		max-width: 111rem;
-		max-height: 57.2rem;
 		grid-template-columns: repeat(4, 1fr);
 		grid-template-rows: repeat(2, 1fr);
 		padding: 0;
